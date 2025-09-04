@@ -12,3 +12,6 @@ The project is fully functional and commented. It follows the JavaDoc standard a
 ## Possible future improvements
 - Upgrade of graphics available
 - Allowing more than 2 players to play
+
+## Authors
+Raphaël BACK - Baptiste BRUYERE - Florian GIURGIU - Estevan SCHMITT
